@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilmith Siriwardena</h1>
 <h3 align="center">A passionate web developer from Sri lanka</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="700" height="300" src="https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?t=st=1718540192~exp=1718543792~hmac=95fcfa3f5167fc08cce47560109963bf30549a98d092b37c1f4460364537d0fe&w=1380">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtdsiriwardena&label=Profile%20views&color=0e75b6&style=flat" alt="jtdsiriwardena" /> </p>
 
