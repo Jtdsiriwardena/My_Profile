@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilmith+Siriwardena;Full+Stack+%26+AI+Engineer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilmith+Siriwardena;Full+Stack+%26+AI+Engineer;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer & AI Engineer from Sri Lanka 🇱🇰</h3>
